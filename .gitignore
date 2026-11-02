@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Sensitive files / keys (CRITICAL: never commit AWS keys)
+*.pem
+*.key
+
+# Temporary extraction files
+taller_text.txt
+*.pdf
